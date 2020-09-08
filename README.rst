@@ -6,11 +6,9 @@ points can be grid points on a connector or a node from either an unstructured o
 
 Usage
 ~~~~~
-The user must invoke the script to begin the point selection process. Once invoked, the script will prompt the user to select the first end point, followed by the apex point, followed by the last end point. The legs of the angle will be displayed briefly before the angle is calculated and printed to the Message Window.
+This script can only be run interactively.
 
-The process can be cancelled at any time by clicking the "Cancel" button during point selection. Also, at
-any point in the process the user can toggle on or off the connector grid points to make the selection 
-process easier.
+The script prompts for selection of the first end point, followed by the apex point, followed by the last end point. The legs of the angle will be displayed briefly before the angle is calculated and printed to the Message Window.
 
 .. image:: https://raw.github.com/pointwise/CalcAngleFromPoints/master/CalcAngleFromPointsExample.PNG
 
