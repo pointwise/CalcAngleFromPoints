@@ -54,9 +54,6 @@ catch {
   puts [format "Angle: %g degrees" [expr acos($dot) * $::Rad2Deg]]
 }
 
-pw::Display update
-after 10000
-
 $mode abort
 
 #
