@@ -12,7 +12,7 @@ The process can be cancelled at any time by clicking the "Cancel" button during 
 any point in the process the user can toggle on or off the connector grid points to make the selection 
 process easier.
 
-.. image:: https://raw.github.com/pointwise/GetCenterPoint/master/CalcAngleFromPointsExample.PNG
+.. image:: https://raw.github.com/pointwise/CalcAngleFromPoints/blob/master/CalcAngleFromPointsExample.PNG
 
 Disclaimer
 ~~~~~~~~~~
